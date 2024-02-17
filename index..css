@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: url(https://asteria.sivium.solutions/storage/img/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+  
+
+}
+.lox{
+    list-style-type: none;
+    color: aliceblue;
+    font-size: 2rem;
+    cursor: pointer;
+}
+.ooo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+    position: relative;
+}
+.dima{
+    position: absolute;
+    bottom: 10vh;
+}
+  
